@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<gpx version="1.1" creator="GPS Visualizer http://www.gpsvisualizer.com/" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<wpt lat="12.9218931" lon="77.6203156">
+  <name>Region, 2005, 2010, 2015, 2017, Total</name>
+  <desc>Total, India</desc>
+</wpt>
+<wpt lat="35.1083641" lon="102.9412994">
+  <name>Asia, 53243730, 65921788, 76558152, 79586709, 275310379</name>
+  <desc>Asia</desc>
+</wpt>
+<wpt lat="-43.9476395" lon="170.5028687">
+  <name>Australia and New Zealand, 5717982, 6830423, 7750276, 8102983, 28401664</name>
+  <desc>New Zealand</desc>
+</wpt>
+<wpt lat="18.4024696" lon="-71.7094193">
+  <name>Caribbean, 1333118, 1353589, 1385784, 1399747, 5472238</name>
+  <desc>Caribbean</desc>
+</wpt>
+<wpt lat="6.4135809" lon="-0.447763">
+  <name>Eastern Africa, 4745792, 4657063, 6920965, 7591799, 23915619</name>
+  <desc>Eastern</desc>
+</wpt>
+<wpt lat="23.2496567" lon="50.1824226">
+  <name>Eastern Asia, 6229524, 7061814, 7600768, 7776716, 28668822</name>
+  <desc>Eastern</desc>
+</wpt>
+<wpt lat="50.0" lon="30.0">
+  <name>Eastern Europe, 19747392, 19127781, 19880519, 20121711, 78877403</name>
+  <desc>Eastern Europe, Ukraine</desc>
+</wpt>
+<wpt lat="54.2612228" lon="17.6698456">
+  <name>Europe, 63201280, 70747947, 74501508, 77895217, 286345952</name>
+  <desc>Europe</desc>
+</wpt>
+<wpt lat="18.4024696" lon="-71.7094193">
+  <name>Latin America &amp; the Caribbean, 7237476, 8246652, 9272027, 9508189, 34264344</name>
+  <desc>Caribbean</desc>
+</wpt>
+<wpt lat="53.0763893" lon="44.0697403">
+  <name>Melanesia, 103878, 105684, 114595, 118078, 442235</name>
+  <desc>442235, Russia</desc>
+</wpt>
+<wpt lat="6.8803821" lon="158.2275238">
+  <name>Micronesia, 128390, 115948, 115311, 117601, 477250</name>
+  <desc>Federated States of Micronesia</desc>
+</wpt>
+<wpt lat="-26.1812096" lon="28.3021755">
+  <name>Middle Africa, 1928828, 2139979, 3436978, 3539697, 11045482</name>
+  <desc>Middle, South Africa</desc>
+</wpt>
+<wpt lat="9.353426" lon="-0.966679">
+  <name>Northern Africa, 1731939, 1893613, 2354732, 2410056, 8390340</name>
+  <desc>Northern</desc>
+</wpt>
+<wpt lat="41.9310188" lon="-88.7621536">
+  <name>Northern America, 45363387, 50970996, 55766224, 57664154, 209764761</name>
+  <desc>Northern Illinois University, IL</desc>
+</wpt>
+<wpt lat="53.4830513" lon="-2.23405">
+  <name>Northern Europe, 9588814, 11810676, 13188813, 13946390, 48534693</name>
+  <desc>Northern Quarter, Manchester, Greater Manchester, United Kingdom</desc>
+</wpt>
+<wpt lat="-28.9469509" lon="133.2711182">
+  <name>Oceania, 6023421, 7124634, 8051745, 8410933, 29610733</name>
+  <desc>Australia</desc>
+</wpt>
+<wpt lat="35.7516251" lon="-91.5036392">
+  <name>Polynesia, 73171, 72579, 71563, 72271, 289584</name>
+  <desc>72579, AR</desc>
+</wpt>
+<wpt lat="-19.2477303" lon="-61.5274086">
+  <name>South America, 4518645, 5143123, 5843031, 6015623, 21520422</name>
+  <desc>South America</desc>
+</wpt>
+<wpt lat="23.2496567" lon="50.1824226">
+  <name>South-eastern Asia, 6522343, 8673693, 9609923, 9873600, 34679559</name>
+  <desc>Eastern</desc>
+</wpt>
+<wpt lat="-0.8078" lon="29.8975906">
+  <name>Southern Africa, 1439426, 2357093, 4112793, 4338205, 12247517</name>
+  <desc>Southern, Uganda</desc>
+</wpt>
+<wpt lat="30.8427124" lon="34.8669205">
+  <name>Southern Asia, 13722011, 14307646, 14173830, 13582402, 55785889</name>
+  <desc>Southern</desc>
+</wpt>
+<wpt lat="24.744091" lon="8.1031513">
+  <name>Sub-Saharan Africa, 14272361, 15691999, 21705234, 22975988, 74645582</name>
+  <desc>Sahara</desc>
+</wpt>
+<wpt lat="5.7440019" lon="-2.415781">
+  <name>Western Africa, 5616321, 5959501, 6610620, 6770466, 24956908</name>
+  <desc>Western</desc>
+</wpt>
+<wpt lat="6.837625" lon="80.0649567">
+  <name>Western Asia, 21531153, 30616221, 39780127, 42891019, 134818520</name>
+  <desc>Western</desc>
+</wpt>
+<wpt lat="64.8403015" lon="-21.6927013">
+  <name>Western Europe, 21890740, 23604046, 25601680, 27869485, 98965951</name>
+  <desc>Vesturland</desc>
+</wpt>
+</gpx>
